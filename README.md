@@ -1,1 +1,1 @@
-# paintdemo-starter
+# paintdemo
